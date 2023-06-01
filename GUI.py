@@ -166,4 +166,3 @@ button.place(x = 70, y = 390)
 
 window.mainloop()
 
-# comment
